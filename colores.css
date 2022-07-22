@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(217, 241, 233);
+    align-items: center;
+    height: 100vh;
+}
+.negativo{
+    color:crimson;
+}
+.positivo{
+    color:chartreuse
+}
